@@ -1,2 +1,3 @@
-name: Hank Quinlan, Horrible Cop
+name: Hank Quinlan, Horrible Cop(validate name)
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
