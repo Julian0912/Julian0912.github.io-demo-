@@ -1,6 +1,6 @@
 permalink: /blog/:year/:month/:day/:title
 highlighter: rouge
-gem: [jekyll-paginate]
+gems: [jekyll-paginate]
 markdown: kramdown
 kramdown:
   input: GFM
